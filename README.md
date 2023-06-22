@@ -1,5 +1,5 @@
 # yt2karaoke
-Converts a YouTube music video to a Karaoke video
+Converts a YouTube music video to a Karaoke video.
 
 
 ## Install dependencies
